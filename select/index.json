@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "I'll be your HERO",
+  "base_artist": "Da-iCE",
+  "createdAt": "2026-02-14T06:45:43.854285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero",
+      "artist": "Kimpoy Feliciano",
+      "has_synced": true,
+      "path": "select/01_I'll_Be_Your_Hero_Kimpoy_Feliciano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero",
+      "artist": "Tommee Profitt, Stanaj",
+      "has_synced": true,
+      "path": "select/02_I'll_Be_Your_Hero_Tommee_Profitt,_Stanaj.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_Your_Hero_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero",
+      "artist": "Tommee Profitt",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_Your_Hero_Tommee_Profitt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero",
+      "artist": "Profitt, Tommee",
+      "has_synced": true,
+      "path": "select/05_I'll_Be_Your_Hero_Profitt,_Tommee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero (Single Edit)",
+      "artist": "Rhapsody of Fire",
+      "has_synced": false,
+      "path": "select/06_I'll_Be_Your_Hero_(Single_Edit)_Rhapsody_of_Fire.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero (feat. Stanaj)",
+      "artist": "Tommee Profitt",
+      "has_synced": true,
+      "path": "select/07_I'll_Be_Your_Hero_(feat._Stanaj)_Tommee_Profitt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I’ll Be Your Hero (single edit)",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/08_I’ll_Be_Your_Hero_(single_edit)_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I’ll Be Your Hero (single edit)",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/09_I’ll_Be_Your_Hero_(single_edit)_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero - Single Edit",
+      "artist": "Rhapsody of Fire",
+      "has_synced": false,
+      "path": "select/10_I'll_Be_Your_Hero_-_Single_Edit_Rhapsody_of_Fire.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero - Single Edit",
+      "artist": "Rhapsody Of Fire",
+      "has_synced": true,
+      "path": "select/11_I'll_Be_Your_Hero_-_Single_Edit_Rhapsody_Of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Be Your Hero (Single Edit)",
+      "artist": "Rhapsody Of Fire",
+      "has_synced": true,
+      "path": "select/12_I'll_Be_Your_Hero_(Single_Edit)_Rhapsody_Of_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll be your HERO",
+      "artist": "Da-iCE",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_be_your_HERO_Da-iCE.txt"
+    }
+  ]
+}
